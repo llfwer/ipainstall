@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <!-- IPA下载地址 -->
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string><![CDATA[http://192.168.31.247/UPGNN-2.6.4-123031334-AdHoc.ipa]]></string><!-- 如果地址是域名的，必须是可以信任https，IP地址随意 -->
+        </dict>
+        <dict>
+          <!-- 下载时展示的图标 -->
+          <key>kind</key>
+          <string>display-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string><![CDATA[https://tdp.upchinaproduct.com/logo_57.png]]></string><!-- 任何地址都可以 -->
+        </dict>
+        <dict>
+          <!-- 下载时展示的图标 -->
+          <key>kind</key>
+          <string>full-size-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string><![CDATA[https://tdp.upchinaproduct.com/logo_512.png]]></string><!-- 任何地址都可以 -->
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string><![CDATA[com.upchina.ios.zngp]]></string><!-- 可以瞎写, 貌似不校验 -->
+        <key>bundle-version</key>
+        <string><![CDATA[1.0.0]]></string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string><![CDATA[iOS-股牛牛]]></string><!-- 下载时的提示 -->
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
