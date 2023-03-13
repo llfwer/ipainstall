@@ -11,7 +11,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://upcdnfiles.oss-cn-hangzhou.aliyuncs.com/UPGNN_ADR_Dist/UPGNN-2.6.4-99999999-AdHoc.ipa</string><!-- 如果地址是域名的，必须是可以信任https，IP地址随意 -->
+          <string><![CDATA[https://release.upchinaproduct.com/iOS_App/UPGNN-2.6.5-123031327-AdHoc.ipa]]></string><!-- 如果地址是域名的，必须是可以信任https，IP地址随意 -->
         </dict>
         <dict>
           <!-- 下载时展示的图标 -->
